@@ -40,8 +40,7 @@ The Article Summarizer is a Python-based tool that leverages Natural Language Pr
 
 ## Contributors
 
-
-- [Nishant Ranjan](mailto:nishantranjan127@gmail.com)
+[Nishant Ranjan](mailto:nishantranjan127@gmail.com)
   
 Feel free to contribute by opening issues or pull requests!
 
