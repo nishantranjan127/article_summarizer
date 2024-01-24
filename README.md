@@ -21,12 +21,13 @@ The Article Summarizer is a Python-based tool that leverages Natural Language Pr
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/article-summarizer.git
-2. Install Dependencies
-  ```bash  
-   pip install -r requirements.txt
    
+2. Install Dependencies
+   ```bash  
+   pip install -r requirements.txt
+
 3. Run the streamlit app
- ```bash
+   ```bash
    streamlit run app.py
 
 
